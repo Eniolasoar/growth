@@ -1,4 +1,5 @@
 import './App.css'
+import Hero from './PageComponents/Hero'
 import NavBar from './PageComponents/NavBar'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
       <NavBar/>
-      
+      <Hero/>
     </>
   )
 }

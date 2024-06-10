@@ -10,7 +10,7 @@ export default {
         black100: '#131316',
         lightBlue:'#4891FF',
         lightGray:'#F5F5F5',
-        lightBlueHover:'#1570F9',
+        darkBlue:'#1570F9',
         extraLightBlue:'#DBE7F9'
       },
       fontFamily:{
